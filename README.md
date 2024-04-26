@@ -1,7 +1,6 @@
-name: Snyk & SonarQube Integration
+name: hello-world
 
-on:
-  push:
+on: push
     branches:
       - main
 
